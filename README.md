@@ -1,5 +1,5 @@
 # Hi, I'm Adarsh Tiwari 👋
-### Aspiring SDE | Full Stack MERN Developer | Competitive Programmer
+### Aspiring SDE | Full Stack MERN Developer | Machine learning engineer | Competitive Programmer
 
 - 🧠 Currently solving complex problems in **C++** and building scalable apps with **MERN**.
 - ⚡ **1200+ Problems Solved** across LeetCode, Codeforces, and CodeChef.
